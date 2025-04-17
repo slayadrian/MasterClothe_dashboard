@@ -1,0 +1,36 @@
+comp_store_id,competitor_name,comp_market,comp_sqft,comp_distance,opening_day
+1026,Chic and Simple,Atlanta,12166,12,2023-04-02
+1033,Chic and Simple,Chicago-Naperville,11178,7,2021-01-04
+1002,Chic and Simple,Portland,9586,1,2016-07-01
+1001,Classic Cuts,Minneapolis,9584,6,2019-05-03
+1032,Classic Cuts,Tampa-Saint Petersburg,7208,2,2018-06-07
+1024,Everyday Outfitters,Los Angeles-Anaheim,8619,10,2017-05-10
+1003,Fresh Fits,Philadelphia,14728,7,2024-08-01
+1029,Modern Attire,Chicago-Naperville,9305,7,2018-02-14
+1034,Modern Attire,Detroit,10741,14,2019-07-28
+1021,Modern Attire,Houston,11990,12,2020-02-16
+1011,Modern Attire,Miami-Fort Lauderdale,9935,11,2016-03-21
+1050,Modern Attire,New York-Newark,7001,8,2023-10-18
+1028,Signature Styles,Dallas-Fort Worth,13856,2,2021-11-25
+1013,Signature Styles,Miami-Fort Lauderdale,8816,2,2023-08-26
+1007,Signature Styles,Washington-Arlington,9712,2,2022-06-18
+1014,Style Hub,Houston,8033,2,2016-11-28
+1004,Style Hub,New York-Newark,9131,5,2024-04-23
+1031,Style Hub,Washington-Arlington,7657,1,2018-07-03
+1027,The Clothing Rack,Chicago-Naperville,10614,2,2019-05-05
+1012,The Clothing Rack,Detroit,11433,3,2023-09-01
+1015,The Clothing Rack,Houston,9074,11,2019-04-02
+1010,The Clothing Rack,Portland,13497,6,2015-05-03
+1020,The Fashion Loft,Dallas-Fort Worth,10845,11,2017-12-28
+1008,The Fashion Loft,Houston,9916,8,2019-08-07
+1005,The Style Spot,Atlanta,12089,9,2024-06-25
+1025,The Style Spot,Dallas-Fort Worth,10900,4,2023-08-23
+1009,The Style Spot,Jacksonville,11938,1,2024-12-20
+1016,The Style Spot,Jacksonville,10298,5,2021-07-03
+1030,The Style Spot,Pheonix,14698,11,2017-09-27
+1017,Trendy Wear,Chicago-Naperville,14282,14,2019-02-26
+1006,Trendy Wear,Portland,14085,11,2018-05-17
+1023,Urban Threads,Miami-Fort Lauderdale,14696,12,2017-09-19
+1019,Urban Threads,Portland,8393,8,2018-10-01
+1022,Wardrobe Essentials,Pheonix,9672,14,2022-05-06
+1018,Wardrobe Essentials,Philadelphia,9427,10,2020-03-24

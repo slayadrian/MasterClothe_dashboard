@@ -1,0 +1,51 @@
+item_id,parent_dept,parent_category,parent_subcategory,brand
+10005,Womens,Accessories,Bags,Brand E
+10003,Womens,Tops,Blouses,Brand E
+10022,Girls,Tops,Blouses,Brand B
+10023,Girls,Tops,Blouses,Brand E
+10032,Womens,Tops,Blouses,Brand C
+10043,Girls,Tops,Blouses,Brand E
+10050,Womens,Tops,Blouses,Brand B
+10014,Womens,Footwear,Boots,Brand A
+10016,Womens,Footwear,Boots,Brand A
+10038,Mens,Footwear,Boots,Brand E
+10015,Girls,Outerwear,Coats,Brand D
+10020,Boys,Outerwear,Coats,Brand C
+10044,Boys,Outerwear,Coats,Brand A
+10049,Girls,Outerwear,Coats,Brand B
+10033,Mens,Bottoms,Dress Pants,Brand E
+10035,Womens,Bottoms,Dress Pants,Brand C
+10048,Mens,Bottoms,Dress Pants,Brand A
+10007,Mens,Tops,Dress Shirts,Brand B
+10010,Mens,Tops,Dress Shirts,Brand D
+10002,Boys,Footwear,Dress Shoes,Brand E
+10024,Womens,Footwear,Dress Shoes,Brand E
+10037,Boys,Footwear,Dress Shoes,Brand C
+10047,Girls,Footwear,Dress Shoes,Brand C
+10042,Girls,Accessories,Hats,Brand A
+10039,Mens,Bottoms,Jeans,Brand C
+10029,Mens,Accessories,Jewelry,Brand E
+10004,Womens,Dresses,Maxi Dresses,Brand E
+10006,Womens,Dresses,Maxi Dresses,Brand A
+10013,Girls,Dresses,Maxi Dresses,Brand A
+10018,Womens,Dresses,Maxi Dresses,Brand E
+10027,Girls,Dresses,Maxi Dresses,Brand A
+10028,Girls,Dresses,Maxi Dresses,Brand B
+10026,Womens,Dresses,Midi Dresses,Brand B
+10040,Mens,Footwear,Sandals,Brand D
+10034,Womens,Accessories,Scarves,Brand A
+10036,Boys,Footwear,Sneakers,Brand E
+10025,Boys,Accessories,Sunglasses,Brand A
+10031,Girls,Accessories,Sunglasses,Brand A
+10046,Womens,Accessories,Sunglasses,Brand A
+10008,Boys,Bottoms,Sweatpants,Brand A
+10009,Womens,Bottoms,Sweatpants,Brand E
+10030,Boys,Bottoms,Sweatpants,Brand A
+10001,Womens,Outerwear,Sweatshirts,Brand E
+10011,Girls,Outerwear,Sweatshirts,Brand D
+10017,Boys,Outerwear,Sweatshirts,Brand D
+10019,Womens,Outerwear,Sweatshirts,Brand A
+10045,Mens,Outerwear,Sweatshirts,Brand B
+10012,Boys,Tops,T-shirts,Brand C
+10021,Girls,Tops,T-shirts,Brand C
+10041,Mens,Tops,T-shirts,Brand A
